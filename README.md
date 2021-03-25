@@ -15,7 +15,7 @@ maintained.
 
 ### Package Control
 
-Available in [package control][https://packagecontrol.io/]. Just bring up the package
+Available in [package control](https://packagecontrol.io/). Just bring up the package
 control menu in sublime (default `ctrl-shift-p`), and enter `Package Control: Install
 Package`, search for `isort`.
 
