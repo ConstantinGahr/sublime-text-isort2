@@ -1,0 +1,7 @@
+{
+    "isort_on_save": false,
+    "path" : "isort",
+
+    // args is a list of arguments passed to isort
+    "args": ["--honor-noqa", "--profile", "black"]
+}

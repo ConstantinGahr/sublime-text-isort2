@@ -1,0 +1,26 @@
+  _                    _    ____
+ (_) ___   ___   _ __ | |_ |___ \
+ | |/ __| / _ \ | '__|| __|  __) |
+ | |\__ \| (_) || |   | |_  / __/
+ |_||___/ \___/ |_|    \__||_____|
+
+
+Description
+-----------
+
+This package replaces the isort package of sublime package control.
+
+
+Installation
+-------------
+
+Install isort:
+
+      pip install isort
+
+
+Changelog
+-----------
+
+0.0.1:
+    - initial version

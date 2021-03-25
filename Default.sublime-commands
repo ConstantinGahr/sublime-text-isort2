@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Isort2: Sort Imports",
+        "command": "isort_sort"
+    },
+    {
+        "caption": "Isort2: Settings",
+        "command": "edit_settings", "args":
+        {
+            "base_file": "${packages}/isort2/isort2.sublime-settings",
+            "default": "{\n    $0\n}"
+        }
+    }
+]
